@@ -1,0 +1,402 @@
+[
+    {
+        "name": "McDonald's Bukit Bintang",
+        "address": "120-120A Jalan Bukit Bintang, 55100, Kuala Lumpur, Malaysia",
+        "telephone": "03-21427843",
+        "latitude": 3.146847,
+        "longitude": 101.710931,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.146847%2C101.710931"
+    },
+    {
+        "name": "McDonald's Bangsar",
+        "address": "48, Jalan Telawi Lima, 59100, Bangsar Baru, Bangsar, Kuala Lumpur, Malaysia",
+        "telephone": "03-22012551",
+        "latitude": 3.13295,
+        "longitude": 101.672297,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.13295%2C101.672297"
+    },
+    {
+        "name": "McDonald's Alpha Angle ",
+        "address": "Lot G-13, Ground Floor, Alpha Angle Complex, Jalan R1, Wangsa Maju, 53000, Setapak, Kuala Lumpur, Malaysia",
+        "telephone": "03-41314015",
+        "latitude": 3.202098,
+        "longitude": 101.734244,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.202098%2C101.734244"
+    },
+    {
+        "name": "McDonald's Leisure Mall Cheras",
+        "address": "LG 16, Lower Ground Floor, Leisure Mall, Taman Segar, No. 6, Jalan Cheras, 56100, Cheras, Kuala Lumpur, Malaysia",
+        "telephone": "03-91345785",
+        "latitude": 3.090122,
+        "longitude": 101.74152,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.090122%2C101.74152"
+    },
+    {
+        "name": "McDonald's Desa Pandan",
+        "address": "Lot 2 & 2-1, Jalan 1/76D, Desa Pandan, 55100, Kuala Lumpur, Malaysia",
+        "telephone": "03-92028218",
+        "latitude": 3.14709,
+        "longitude": 101.736853,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.14709%2C101.736853"
+    },
+    {
+        "name": "McDonald's Jalan Tun Perak ",
+        "address": "38, Jalan Tun Perak, Ground & Mezzanine Floor, Wisma Teck Lee, 50050, Kuala Lumpur, Malaysia",
+        "telephone": "03-20266899 ",
+        "latitude": 3.149178,
+        "longitude": 101.696865,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.149178%2C101.696865"
+    },
+    {
+        "name": "McDonald's Gombak ",
+        "address": "M01 & M02, Kompleks Idaman, No. 40 - 50, Jalan 2/21D, Medan Idaman, Batu 5 1/4, Jalan Gombak, 53000, Kuala Lumpur, Malaysia",
+        "telephone": "03-40319751",
+        "latitude": 3.212711,
+        "longitude": 101.711531,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.212711%2C101.711531"
+    },
+    {
+        "name": "McDonald's Mont Kiara ",
+        "address": "No. 1, Block D, Plaza Mont Kiara, Jalan Bukit Kiara, 50480, Bukit Kiara, Kuala Lumpur, Malaysia",
+        "telephone": "03-62063255",
+        "latitude": 3.165745,
+        "longitude": 101.652203,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.165745%2C101.652203"
+    },
+    {
+        "name": "McDonald's Petron Seremban-KL Highway DT",
+        "address": "8KM, KL-Seremban Highway, 57000, Seri Kembangan, Kuala Lumpur, Malaysia",
+        "telephone": "03-89423932",
+        "latitude": 3.047047,
+        "longitude": 101.705739,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.047047%2C101.705739"
+    },
+    {
+        "name": "McDonald's Bandar Sri Damansara DT",
+        "address": "Lot PT21552 & PT21553, Mukim Sungai Buloh, Persiaran Perdana, 52200, Bandar Sri Damansara, Kuala Lumpur, Malaysia",
+        "telephone": "03-62617064",
+        "latitude": 3.195093,
+        "longitude": 101.607767,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.195093%2C101.607767"
+    },
+    {
+        "name": "McDonald's Pandan Mewah DT",
+        "address": "Bangunan Restoran McDonald's, Jalan Mewah Utara, 68000, Ampang, Kuala Lumpur, Malaysia",
+        "telephone": "012-6214202",
+        "latitude": 3.128108,
+        "longitude": 101.762843,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.128108%2C101.762843"
+    },
+    {
+        "name": "McDonald's Setiawangsa DT",
+        "address": "Lot 16794 & 16795, Jalan 37/56, Taman Setiawangsa, 54200, Kuala Lumpur, Malaysia",
+        "telephone": "03-42567660",
+        "latitude": 3.178129,
+        "longitude": 101.743585,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.178129%2C101.743585"
+    },
+    {
+        "name": "McDonald's Berjaya Times Square",
+        "address": "Lot 05-93, 93A, No. 1, Jalan Imbi, 55100, Kuala Lumpur, Malaysia",
+        "telephone": "03-21100154",
+        "latitude": 3.142065,
+        "longitude": 101.710819,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.142065%2C101.710819"
+    },
+    {
+        "name": "McDonald's Kuchai Lama DT",
+        "address": "1/116B, Off Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200, Kuala Lumpur, Malaysia",
+        "telephone": "03-79822180",
+        "latitude": 3.087352,
+        "longitude": 101.690106,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.087352%2C101.690106"
+    },
+    {
+        "name": "McDonald's Taman Connaught DT",
+        "address": "Lot 18113, Jalan Cendikiawan, 55100, Mukim Petaling, Kuala Lumpur, Malaysia",
+        "telephone": "03-91016190",
+        "latitude": 3.081484,
+        "longitude": 101.731946,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.081484%2C101.731946"
+    },
+    {
+        "name": "McDonald's Petronas TPM DT",
+        "address": "Petronas Petrol Station, Technology Park Malaysia, Seremban KL-Highway, 50700, Kuala Lumpur, Malaysia",
+        "telephone": "03-90541502",
+        "latitude": 3.056652,
+        "longitude": 101.704186,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.056652%2C101.704186"
+    },
+    {
+        "name": "McDonald's Petronas Melati DT",
+        "address": "Lot 3644 HS (D) 70344 &, Lot PT 8081 HS (D) 107241, Taman Melati, Mukim Setapak, 53100, Kuala Lumpur, Malaysia",
+        "telephone": "03-41613791",
+        "latitude": 3.225019,
+        "longitude": 101.728649,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.225019%2C101.728649"
+    },
+    {
+        "name": "McDonald's Shell Jalan Cheras DT",
+        "address": "Lot PT 7430, HSD 111856, KM5.5, Jalan Cheras, 56000, Cheras, Kuala Lumpur, Malaysia",
+        "telephone": "03-91342127",
+        "latitude": 3.104739,
+        "longitude": 101.732853,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.104739%2C101.732853"
+    },
+    {
+        "name": "McDonald's Petronas MRR2 Kepong DT",
+        "address": "Lot 25747, Lebuh Raya Selayang, Kepong Lebuh Raya, Lingkaran Tengah 2 (MRR 2), 52100, Kepong, Kuala Lumpur, Malaysia",
+        "telephone": "03-62596498",
+        "latitude": 3.229265,
+        "longitude": 101.65503,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.229265%2C101.65503"
+    },
+    {
+        "name": "McDonald's M2 Mall",
+        "address": "Lot 1, Level1, BUSANA, Menara MARA, No. 232, Jalan Tuanku Abdul Rahman, 50100, Kuala Lumpur , Malaysia",
+        "telephone": "03-22028034",
+        "latitude": 3.157924,
+        "longitude": 101.695732,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.157924%2C101.695732"
+    },
+    {
+        "name": "McDonald's TTDI (Taman Tun Dr Ismail)",
+        "address": "No. 2, 2A & B, Jalan Tun Mohd Fuad 2, Taman Tun Dr Ismail, 60000, Kuala Lumpur, Malaysia",
+        "telephone": "03-77310984",
+        "latitude": 3.140522,
+        "longitude": 101.629209,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.140522%2C101.629209"
+    },
+    {
+        "name": "McDonald's BHP Taman Melawati DT",
+        "address": "Lot PT 8669, Jalan Lingkaran Tengah II, 53100, Kuala Lumpur, Malaysia",
+        "telephone": "03-41621453",
+        "latitude": 3.220217,
+        "longitude": 101.735889,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.220217%2C101.735889"
+    },
+    {
+        "name": "McDonald's NU Sentral",
+        "address": "Unit No. L4. 02 & 03, Level 4, 1 Sentral, Jalan Travers, 50470, Kuala Lumpur, Malaysia",
+        "telephone": "03-22760042",
+        "latitude": 3.133295,
+        "longitude": 101.687277,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.133295%2C101.687277"
+    },
+    {
+        "name": "McDonald's Sri Petaling",
+        "address": "No 63 & 63-1, Jalan Radin Tengah, Bandar Baru Sri Petaling, 57000, Kuala Lumpur, Malaysia",
+        "telephone": "03-90540493",
+        "latitude": 3.068888,
+        "longitude": 101.6918,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.068888%2C101.6918"
+    },
+    {
+        "name": "McDonald's Mid Valley 3",
+        "address": "Tingkat 3, Mid Valley Megamall, Lingkaran Syed Putra, 59200, Kuala Lumpur, Malaysia",
+        "telephone": "03-22010506",
+        "latitude": 3.117399,
+        "longitude": 101.677572,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.117399%2C101.677572"
+    },
+    {
+        "name": "McDonald's KL Sentral",
+        "address": "Lot 14, 15, & 16, First Floor, Kuala Lumpur Sentral Station, 50470, Kuala Lumpur, Malaysia",
+        "telephone": "03-22722431",
+        "latitude": 3.134615,
+        "longitude": 101.686593,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.134615%2C101.686593"
+    },
+    {
+        "name": "McDonald's Suria KLCC",
+        "address": "Lot C35 - 38, Concourse Floor, Suria KLCC Shopping Centre, Jalan Ampang, 50088, Kuala Lumpur, Malaysia",
+        "telephone": "03-27151512",
+        "latitude": 3.157474,
+        "longitude": 101.712164,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.157474%2C101.712164"
+    },
+    {
+        "name": "McDonald's MyTown Mall",
+        "address": "Lot No. B1-03 & B1-E-03, MyTown Shopping Centre, No. 6, Jalan Cohcrane, Section 90, 55100, Kuala Lumpur, Malaysia",
+        "telephone": "03-27322567",
+        "latitude": 3.134208,
+        "longitude": 101.723645,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.134208%2C101.723645"
+    },
+    {
+        "name": "McDonald's Sunway Velocity Mall",
+        "address": "LG, Sunway Velocity Mall, Jalan Peel, 55100, Kuala Lumpur, Malaysia",
+        "telephone": "03-27320717",
+        "latitude": 3.127299,
+        "longitude": 101.724463,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.127299%2C101.724463"
+    },
+    {
+        "name": "McDonald's Intermark Mall",
+        "address": "Lot No. G17, G17A & G17B, Ground Floor, Intermark Mall, 348, Jalan Tun Razak, 50400, Kuala Lumpur, Malaysia",
+        "telephone": "03-27155667",
+        "latitude": 3.161279,
+        "longitude": 101.720181,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.161279%2C101.720181"
+    },
+    {
+        "name": "McDonald's Danau Kota DT",
+        "address": "Part of Lot 201138, Jalan Langkawi, Mukim Setapak, Taman Danau Kota, 53300 Kuala Lumpur.",
+        "telephone": "03-41310897",
+        "latitude": 3.2066149,
+        "longitude": 101.71755680000001,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.2066149%2C101.71755680000001"
+    },
+    {
+        "name": "McDonald's Desa Park City DT",
+        "address": "Lot GF32 & FF31, Waterfront Parkcity, Persiaran Residen, Desapark City, 52200 Kuala Lumpur. ",
+        "telephone": "03-62611632",
+        "latitude": 3.1877337,
+        "longitude": 101.62778,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.1877337%2C101.62778"
+    },
+    {
+        "name": "McDonald's Pearl Point DT",
+        "address": "Lot No G-08, Ground Floor, Pearl Point Shopping Complex, 5th Mile, Old Klang Road, 58000 Kuala Lumpur                                                                 ",
+        "telephone": "03-79712465",
+        "latitude": 3.084915,
+        "longitude": 101.673568,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.084915%2C101.673568"
+    },
+    {
+        "name": "McDonald's Jalan P. Ramlee",
+        "address": "Lot G-W-1, Ground Floor, West Wing, Rohas Pure Circle, No 9, Jalan P Ramlee, 50450 Kuala Lumpur",
+        "telephone": "03-21815851",
+        "latitude": 3.154587,
+        "longitude": 101.708461,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.154587%2C101.708461"
+    },
+    {
+        "name": "McDonald's BHP Jalan Kepong",
+        "address": "Lot PT 1, Batu 6 1/2, Jalan Kepong, 52000 Kuala Lumpur",
+        "telephone": "03-62500090",
+        "latitude": 3.208163,
+        "longitude": 101.653579,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.208163%2C101.653579"
+    },
+    {
+        "name": "McDonald's Shell Jalan Sentul DT",
+        "address": "PT 8938, Jalan Sentul/Batu Caves, Mukim Setapak, Sentul, 51100 Kuala Lumpur",
+        "telephone": "016-2127692",
+        "latitude": 3.12223,
+        "longitude": 101.41208,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.12223%2C101.41208"
+    },
+    {
+        "name": "McDonald's Wisma Lim Foo Yong ",
+        "address": "Wisma Lim Foo Yong, Lot No. 62, Seksyen 57, Jalan Raja Chulan, 50250 Kuala Lumpur. ",
+        "telephone": "03-21102479",
+        "latitude": 3.09032,
+        "longitude": 101.42334,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.09032%2C101.42334"
+    },
+    {
+        "name": "McDonald's Sentul UOA DT",
+        "address": "LOT PT 10098, Jalan Sentul Pasar, Mukim Setapak Dalam, Bandaraya Kuala Lumpur 51000 Kuala Lumpur ",
+        "telephone": "03-27029214",
+        "latitude": 3.202057,
+        "longitude": 101.689976,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.202057%2C101.689976"
+    },
+    {
+        "name": "McDonald's Shell Tasik Ampang DT",
+        "address": "Lot PT 2536, Lebuh Raya Lingkaran Tengah 2, Mukim Ampang, 55000 Kuala Lumpur",
+        "telephone": "03-92013561",
+        "latitude": 3.151919749,
+        "longitude": 101.745321,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.151919749%2C101.745321"
+    },
+    {
+        "name": "McDonald's Shell Bukit Bintang DT",
+        "address": "225, Bukit Bintang St, Imbi, 55100 Kuala Lumpur, Federal Territory Of Kuala Lumpur",
+        "telephone": "03-21101876",
+        "latitude": 3.14752,
+        "longitude": 101.7178428,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.14752%2C101.7178428"
+    },
+    {
+        "name": "McDonald's Shell Jalan Kuching DT",
+        "address": "Lot 58043, Jalan Kuching, Mukim Batu 68100, Wlayah Persekutuan Kuala Lumpur",
+        "telephone": "",
+        "latitude": 3.223098,
+        "longitude": 101.6721257,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.223098%2C101.6721257"
+    },
+    {
+        "name": "McDonald's Shell Wangsa Maju DT",
+        "address": "Lot 28332, Jalan 8/27A, Pusat Bandar Wangsa Maju, 53300 Kuala Lumpur",
+        "telephone": "03-41315949",
+        "latitude": 3.19744,
+        "longitude": 101.744674130684,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.19744%2C101.744674130684"
+    },
+    {
+        "name": "McDonald's Jalan Tun Razak DT",
+        "address": "No 9, Jalan Fletcher, 50400 Kuala Lumpur",
+        "telephone": "03-26022147",
+        "latitude": 3.1721,
+        "longitude": 101.7086,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.1721%2C101.7086"
+    },
+    {
+        "name": "McDonald's Petron North Kiara DT",
+        "address": "452, Jalan Segambut, Kampung Segambut Tengah, 1200 Kuala Lumpur",
+        "telephone": "03-62423593",
+        "latitude": 3.18298,
+        "longitude": 101.65492,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.18298%2C101.65492"
+    },
+    {
+        "name": "McDonald's Pantai Sentral Park DT",
+        "address": "No. 2, Jalan Pantai Sentral 1, Pantai Sentral, 59200, Wilayah Persekutuan Kuala Lumpur.",
+        "telephone": "03-22411097",
+        "latitude": 3.101972,
+        "longitude": 101.666333,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.101972%2C101.666333"
+    },
+    {
+        "name": "McDonald's BHP Genting Klang DT",
+        "address": "5241 & 5242, 295, Jalan Genting Kelang, Perusahaan PKNS, 53200 Kuala Lumpur.",
+        "telephone": "",
+        "latitude": 3.196826,
+        "longitude": 101.7137842,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.196826%2C101.7137842"
+    },
+    {
+        "name": "McDonald's Giant Ulu Kelang",
+        "address": "SG03 & SG04, Giant Ulu Kelang, Lot 13793 & 13796 Jalan Changkat Permata, 53300 Kuala Lumpur.",
+        "telephone": "03-41085134",
+        "latitude": 3.207414,
+        "longitude": 101.7515586,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.207414%2C101.7515586"
+    },
+    {
+        "name": "McDonald's Titiwangsa DT",
+        "address": "Lot 8, Section 85, Jalan Pahang, 53000, Setapak, Kuala Lumpur, Malaysia.",
+        "telephone": "03-40311346",
+        "latitude": 3.179551,
+        "longitude": 101.700383,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.179551%2C101.700383"
+    },
+    {
+        "name": "McDonald's Shell Taman Desa DT",
+        "address": "1 Jln 3/109E, Desa Business Park, Taman Desa, 58100 Kuala Lumpur",
+        "telephone": "03-79720127",
+        "latitude": 3.10078877793453,
+        "longitude": 101.686130313856,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.10078877793453%2C101.686130313856"
+    },
+    {
+        "name": "McDonald's Desa Petaling SF",
+        "address": "1-3, Pusat Perdagangan Salak II, Jalan 2/125, Taman Desa Petaling, 57100 Kuala Lumpur",
+        "telephone": "",
+        "latitude": 3.0845,
+        "longitude": 101.700753,
+        "waze_link": "https://www.waze.com/live-map/directions?navigate=yes&to=ll.3.0845%2C101.700753"
+    }
+]

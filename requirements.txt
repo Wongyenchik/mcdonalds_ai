@@ -1,0 +1,14 @@
+selenium==4.15.2
+webdriver-manager==4.0.1
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic
+langchain
+langchain-openai
+openai
+tavily-python
+psycopg2-binary
+sqlalchemy
+langchain_core
+langchain_community
+python-dotenv==1.0.1
