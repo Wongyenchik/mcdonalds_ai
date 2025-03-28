@@ -13,6 +13,8 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://localhost:8000",
+    "https://*.vercel.app",  # Allow Vercel deployment URLs
+    "https://*.render.com"   # Allow Render deployment URLs
 ]
 # Add CORS middleware
 app.add_middleware(
@@ -25,11 +27,11 @@ app.add_middleware(
 
 # Database connection parameters
 DB_PARAMS = {
-    "dbname": "mcdonalds_ai",
-    "user": "postgres",
-    "password": "postgres",
-    "host": "localhost",
-    "port": "5432"
+    "dbname": os.getenv("POSTGRES_DB", "mcdonalds_ai"),
+    "user": os.getenv("POSTGRES_USER", "postgres"),
+    "password": os.getenv("POSTGRES_PASSWORD", "postgres"),
+    "host": os.getenv("POSTGRES_HOST", "localhost"),
+    "port": os.getenv("POSTGRES_PORT", "5432")
 }
 
 # Pydantic model for outlet data
