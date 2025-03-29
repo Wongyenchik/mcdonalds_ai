@@ -14,7 +14,8 @@ origins = [
     "http://localhost:3000",
     "http://localhost:8000",
     "https://*.vercel.app",  # Allow Vercel deployment URLs
-    "https://*.render.com"   # Allow Render deployment URLs
+    "https://*.render.com",   # Allow Render deployment URLs
+    "https://mcdonalds-ai-frontend.onrender.com"  # Your specific frontend URL
 ]
 # Add CORS middleware
 app.add_middleware(
