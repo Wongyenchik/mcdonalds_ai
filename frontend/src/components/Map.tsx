@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup, Circle } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
-import axios from "axios";
+import api from "../api";
 
 // Fix for default marker icons in React-Leaflet
 delete (L.Icon.Default.prototype as any)._getIconUrl;
@@ -30,9 +30,7 @@ const Map: React.FC = () => {
   useEffect(() => {
     const fetchOutlets = async () => {
       try {
-        const response = await axios.get<Outlet[]>(
-          "http://localhost:8000/outlets"
-        );
+        const response = await api.get<Outlet[]>("/outlets");
         setOutlets(response.data);
       } catch (err) {
         setError("Failed to fetch outlets data");
