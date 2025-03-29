@@ -63,7 +63,7 @@ async def get_all_outlets():
     try:
         conn = get_db_connection()
         with conn.cursor() as cur:
-            cur.execute("SELECT * FROM mcdonalds_outlets")
+            cur.execute("SELECT * FROM mcdonalds_ai")
             outlets = cur.fetchall()
         return outlets
     except Exception as e:

@@ -18,8 +18,8 @@ os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
 
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-# Connect to the database
-db_url = "postgresql+psycopg2://postgres:postgres@localhost:5432/mcdonalds_ai"
+# Connect to the database using environment variables
+db_url = f"postgresql+psycopg2://{os.getenv('POSTGRES_USER')}:{os.getenv('POSTGRES_PASSWORD')}@{os.getenv('POSTGRES_HOST')}:{os.getenv('POSTGRES_PORT')}/{os.getenv('POSTGRES_DB')}"
 engine = create_engine(db_url)
 database = SQLDatabase(engine)
 
