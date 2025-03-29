@@ -6,9 +6,9 @@ You can test the app here [McDonald's AI](https://mcdonalds-ai-frontend.onrender
 
 ## Project Structure
 
-### Technology Stack
-
 ![McDonald's AI System Structure](./assets/app-structure.png)
+
+### Technology Stack
 
 - **Frontend**: React.js with Leaflet library for interactive mapping
 - **Backend**: FastAPI for efficient API endpoints
