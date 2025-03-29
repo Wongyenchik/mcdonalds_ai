@@ -99,3 +99,89 @@ Both frontend and backend are deployed on Render:
 
 - Frontend: Interactive web interface
 - Backend: API and AI processing services
+
+## Setup Instructions
+
+### Prerequisites
+
+- Node.js and npm
+- Python 3.13 or higher
+- PostgreSQL database
+- API Keys:
+  - OpenAI API key
+  - Tavily API key
+
+### Environment Variables
+
+Create a `.env` file in the root directory with the following variables:
+
+```env
+TAVILY_API_KEY=your_tavily_api_key
+OPENAI_API_KEY=your_openai_api_key
+REACT_APP_API_URL=http://localhost:8000  # For development
+POSTGRES_DB=mcdonalds_ai
+POSTGRES_USER=your_postgres_user
+POSTGRES_PASSWORD=your_postgres_password
+POSTGRES_HOST=your_postgres_host
+POSTGRES_PORT=5432
+```
+
+### Database Setup
+
+1. The table structure will be automatically created when running the scraper
+
+### Backend Setup
+
+1. Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+2. Run the scraper to populate the database:
+
+```bash
+python mcdonalds_scraper.py
+```
+
+3. Start the backend server:
+
+```bash
+python main.py
+```
+
+The server will run on `http://localhost:8000`
+
+### Frontend Setup
+
+1. Navigate to the frontend directory:
+
+```bash
+cd frontend
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm start
+```
+
+The frontend will run on `http://localhost:3000`
+
+### Verification
+
+1. Check if the map loads with McDonald's outlets
+2. Try asking questions about McDonald's outlets in the search bar
+3. Verify that the database contains the scraped data
+
+### Common Issues
+
+- If the scraper fails, make sure you have Chrome installed for Selenium
+- Ensure all API keys are valid and have sufficient credits
+- Check if the PostgreSQL database is accessible from your environment
