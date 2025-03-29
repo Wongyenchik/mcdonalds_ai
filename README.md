@@ -4,11 +4,11 @@ An intelligent system that provides information about McDonald's outlets in Kual
 
 You can test the app here [McDonald's AI](https://mcdonalds-ai-frontend.onrender.com/)
 
-![McDonald's AI System Structure](./assets/app-structure.png)
-
 ## Project Structure
 
 ### Technology Stack
+
+![McDonald's AI System Structure](./assets/app-structure.png)
 
 - **Frontend**: React.js with Leaflet library for interactive mapping
 - **Backend**: FastAPI for efficient API endpoints
