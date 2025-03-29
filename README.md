@@ -6,7 +6,7 @@ You can test the app here [McDonald's AI](https://mcdonalds-ai-frontend.onrender
 
 ## Project Structure
 
-![McDonald's AI System Structure](./assets/app-structure.png)
+![McDonald's AI System Structure](./assets/app-structure1.png)
 
 ### Technology Stack
 
