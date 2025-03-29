@@ -53,6 +53,8 @@ PostgreSQL database contains the following columns:
 
 ### Agentic AI Implementation (`llm_train.py`)
 
+![LLM Architecture](./assets/llm-structure.png)
+
 The system uses a multi-agent architecture using LangChain with OpenAI LLM:
 
 1. **First Agent (Detection Agent)**
