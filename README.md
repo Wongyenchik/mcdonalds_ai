@@ -3,6 +3,7 @@
 An intelligent system that provides information about McDonald's outlets in Kuala Lumpur using agentic AI and location-based services.
 
 You can test the app here [McDonald's AI](https://mcdonalds-ai-frontend.onrender.com/)
+
 ![McDonald's AI System Structure](./assets/app-structure.png)
 
 ## Project Structure
